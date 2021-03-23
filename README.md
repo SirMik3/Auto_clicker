@@ -1,11 +1,13 @@
 # Auto clicker
 A C++ Auto Clicker:
 
-To Run Use (In terminal):
+To Download (In terminal):
 
 > sudo apt install xdotool
 
 > gh repo clone SirMik3/Auto_clicker
+
+To run:
 
 > cd Auto_clicker
 
